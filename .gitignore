@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+content/source-manifest.json
+qa/
+.openai/
+.DS_Store
