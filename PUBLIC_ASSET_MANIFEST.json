@@ -96,8 +96,8 @@
   },
   {
     "path": "public/site-assets/case-workbench.js",
-    "bytes": 6481,
-    "sha256": "f40c93b3f552955da4ed579b202070b0d44bfbdd3cc2c75a4fd822ca496dd995"
+    "bytes": 6988,
+    "sha256": "c7b90469e4d9961c5ba83348176694f26a47d2a1f42079dcf9a8e43f019a0b55"
   },
   {
     "path": "public/site-assets/company.css",
@@ -111,8 +111,8 @@
   },
   {
     "path": "public/site-assets/continuity.css",
-    "bytes": 12814,
-    "sha256": "174babc28eba855dad593c44cc7fadce959dd06c6c65aa6cb151ca9b41887d0d"
+    "bytes": 12936,
+    "sha256": "99fc17a52844b875a10f737fb487b5b9cc71b6f3467a447b75288da9d2d50b25"
   },
   {
     "path": "public/site-assets/home-company.css",

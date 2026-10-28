@@ -45,3 +45,6 @@ if(infrastructure){const legacy=document.querySelector('[data-tour="infrastructu
 })();
 
 (()=>{const select=document.querySelector("#case-perspective-select");if(!select)return;select.addEventListener("change",()=>document.querySelector("[data-case-perspective=\""+select.value+"\"]")?.click());document.querySelectorAll("[data-case-perspective]").forEach(button=>button.addEventListener("click",()=>select.value=button.dataset.casePerspective));})();
+
+// Preserve the product responsibility selected by an incoming internal link.
+(()=>{if(!document.querySelector('#case-perspective-select'))return;const q=new URLSearchParams(location.search),productModes={Steed:'ai',Ground:'connected',Ger:'infrastructure',Station:'infrastructure'},allowed=['all','ai','connected','infrastructure'],requested=q.get('perspective')||productModes[q.get('product')];if(allowed.includes(requested))document.querySelector('[data-case-perspective="'+requested+'"]')?.click()})();
