@@ -1,0 +1,29 @@
+{
+  "name": "systead-private-production-candidate",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 4332",
+    "build": "next build --webpack && node scripts/finalize-export.mjs",
+    "start": "python3 serve-review.py --port 4332",
+    "typecheck": "next typegen --webpack && tsc --noEmit",
+    "lint": "eslint app components lib",
+    "verify": "npm run typecheck && npm run lint && npm run build"
+  },
+  "dependencies": {
+    "next": "16.3.5",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "@fontsource/manrope": "5.2.8"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/node": "22.18.0",
+    "@types/react": "19.2.0",
+    "@types/react-dom": "19.2.0",
+    "eslint": "9.39.1",
+    "eslint-config-next": "16.3.5",
+    "@axe-core/playwright": "4.11.0",
+    "playwright": "1.58.2"
+  }
+}
