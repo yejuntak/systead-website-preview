@@ -1,0 +1,8 @@
+:HL["/systead-website-preview/_next/static/css/77c1d3186a603bdd.css","style"]
+:HL["/systead-website-preview/site-assets/style.css","style"]
+:HL["/systead-website-preview/site-assets/company.css","style"]
+:HL["/systead-website-preview/site-assets/site-shell.css","style"]
+:HL["/systead-website-preview/site-assets/integrated-craft.css","style"]
+:HL["/systead-website-preview/site-assets/subpage-craft.css","style"]
+:HL["/systead-website-preview/site-assets/continuity.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"c","key":"company","siblings":["_not-found","_global-error","robots.txt"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"K8Z5XTY-HiYreNUsIYRBE"}

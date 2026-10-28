@@ -28,7 +28,7 @@ Next.js App Router pre-renders the local, authored marketing documents. A typed 
 
 Design acceptance is pending. Functional/visual fidelity tests do not prove reference-grade aesthetics or accessibility certification. Actual macOS Safari was blocked by a locked Mac; actual iOS and screen-reader checks remain open. Production legal content, a real receiving service, final multilingual/SEO/performance work and any live-domain release require separate resolution.
 
-The new repository is private. Do not make source public or enable a paid service merely to obtain a preview URL.
+The owner explicitly approved public sharing of this test-site source for free GitHub Pages. No paid service, app source, customer data, credentials or unrelated recovery material is included. Design approval remains pending.
 
 ## Assets and notices
 

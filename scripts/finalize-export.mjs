@@ -38,3 +38,5 @@ if (basePath) {
   walk('out/site-assets');
   console.log('Applied static asset/interaction base path ' + basePath + '.');
 }
+
+if (fs.existsSync("licenses")) fs.cpSync("licenses", "out/licenses", {recursive: true});
