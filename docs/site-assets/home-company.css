@@ -90,3 +90,8 @@ html[data-input-mode=keyboard]{scroll-behavior:auto}
 
 /* The optional proximity-revealed source fragment remains readable at its real size. */
 .ambient-sheet{height:180px}.ambient-sheet-bar,.ambient-sheet-bar>span:first-child,.ambient-sheet-body span,.ambient-sheet-body strong,.ambient-sheet-body small{font-size:13px}.ambient-sheet-body{padding-block:16px}.ambient-sheet-body>div{gap:6px}
+
+/* Evidence and proposed-action copy can reflow when text is enlarged. */
+.work-review,.workplace-body>*{min-width:0}.question-line h2,.context-line p,.original-fields dd,.record-equation dd{overflow-wrap:anywhere}.next-action{flex-wrap:wrap}.next-action button,.next-action>span{white-space:normal;max-width:100%;overflow-wrap:anywhere}.source-switch button{min-width:0;white-space:normal}.signature-originals>*{min-width:0}
+
+@media(max-width:700px){.promise-product-map a{flex-wrap:wrap;gap:2px 7px}.record-equation{grid-template-columns:repeat(3,minmax(0,1fr))}.record-equation>div{min-width:0}.record-equation dd{display:flex;flex-wrap:wrap;gap:2px}.workplace-foot{flex-wrap:wrap}.workplace-foot a{white-space:normal}.signature-controls{flex-wrap:wrap}.signature-controls>button{min-width:0;max-width:100%}.signature-nodes{grid-template-columns:repeat(2,minmax(0,1fr))}.signature-nodes>*{min-width:0;max-width:100%;overflow-wrap:anywhere}.signature-context,.signature-object{width:auto}.signature-context{grid-column:1/-1}}

@@ -13,3 +13,8 @@
 .site-header nav.primary-nav{display:flex;gap:28px}@media(max-width:900px){.site-header nav.primary-nav{display:none}.site-header[data-mobile-open=true] nav.primary-nav{display:block}}
 
 .mobile-nav-toggle svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round}.upgrade-home .mini-product-stage{box-shadow:none}
+
+/* Preserve navigation under enlarged text without shrinking its type. */
+@media(max-width:900px){.header-row{height:auto;min-height:72px;flex-wrap:wrap;column-gap:16px;row-gap:4px;padding-block:10px}.mobile-nav-toggle{margin-left:auto;min-width:0;flex-wrap:wrap}.primary-nav{top:100%;max-height:calc(100dvh - 100px)}.nav-product>strong,.nav-product>span{min-width:0;overflow-wrap:anywhere}}
+
+.company-footer :is(a,p,h2,div){min-width:0;overflow-wrap:anywhere}.company-footer a{white-space:normal}
