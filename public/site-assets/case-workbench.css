@@ -6,3 +6,6 @@
 .case-workbench[data-keyboard=true] *{transition:none!important}.case-workbench[data-keyboard=true] button:active{transform:none}
 /* Real resting surfaces separate by tone and alignment; keep small operational labels readable. */
 .case-workbench,.cw-paper{box-shadow:none}.cw-role-label,.cw-toolbar span,.cw-toolbar>p,.cw-source-header>span,.cw-item>span,.cw-paper>p.cw-paper-foot{font-size:13px}@media(max-width:760px){.cw-toolbar span,.cw-toolbar>p,.cw-item p,.cw-quantities dt,.cw-quantities small{font-size:13px}}
+
+/* A reusable step owns its internal reading space; no extra panel/chrome. */
+.cw-step{padding:20px 18px;margin-inline:-18px;min-width:0}

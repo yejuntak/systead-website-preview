@@ -50,49 +50,49 @@
     "sha256": "d51aed9c50e503e838f65430ed556f946af51028f68996d10034b77ab84bb63a"
   },
   {
-    "path": "public/site-assets/assets/showcase-v1/ger-1440.webp",
-    "bytes": 60922,
-    "sha256": "7e11749761610721d32b1a9cce757840bcd0b7185ea3ba871fcafb38159df4ef"
+    "path": "public/site-assets/assets/showcase-v3/ger-1440.webp",
+    "bytes": 96294,
+    "sha256": "2c4ae7b148b155fa00eecd146aa4831267b78796b14b06c32c5537f3e489dac9"
   },
   {
-    "path": "public/site-assets/assets/showcase-v1/ger-390.webp",
-    "bytes": 13596,
-    "sha256": "5c31dc51d35a6fb80d90a6e47e455f48899c38d58529b961c1a652baeac9fd6d"
+    "path": "public/site-assets/assets/showcase-v3/ger-320.webp",
+    "bytes": 30056,
+    "sha256": "0cd03cd32396f319df4478976d4bbf6c540d996ed734348bf2d64d2809cbc6e6"
   },
   {
-    "path": "public/site-assets/assets/showcase-v1/ground-1440.webp",
-    "bytes": 40968,
-    "sha256": "b23e4e4ed6b8cbc678df13896f386e04d0c54e980ae7cc62aa2e1e974635004e"
+    "path": "public/site-assets/assets/showcase-v3/ground-1440.webp",
+    "bytes": 29730,
+    "sha256": "9083962fd11d72f2df9acfd395ff7d19b5b7b9fd804f7089e3d2a21c9c0a2b95"
   },
   {
-    "path": "public/site-assets/assets/showcase-v1/ground-390.webp",
-    "bytes": 9882,
-    "sha256": "a44e5dcaed92dd0e5ea524343628aeda61de2906560c1073be1dc052629cd098"
+    "path": "public/site-assets/assets/showcase-v3/ground-320.webp",
+    "bytes": 24024,
+    "sha256": "412ceba4bec78c7df8e40c8db9c4ab2722e8f0cce6d2cf12709c2a8017626966"
   },
   {
-    "path": "public/site-assets/assets/showcase-v1/station-1440.webp",
-    "bytes": 46810,
-    "sha256": "890c9e40210db57fa687d9ac1bb58485ec67eea9b69dfa13eec0777eb1d7a411"
+    "path": "public/site-assets/assets/showcase-v3/station-1440.webp",
+    "bytes": 84716,
+    "sha256": "000411dcc575dc8e8bb7afe6864180a3184e754936b31416b91c531735fddcad"
   },
   {
-    "path": "public/site-assets/assets/showcase-v1/station-390.webp",
-    "bytes": 9442,
-    "sha256": "e05f80b4210e691ec92e1490389eb56efdd0a98984ed4af5f61046a6bafdfd27"
+    "path": "public/site-assets/assets/showcase-v3/station-320.webp",
+    "bytes": 20952,
+    "sha256": "bdb8a7713a145629e67a0d9e34b9998461ad28f398dbf0ff3679b7bf34c501a1"
   },
   {
-    "path": "public/site-assets/assets/showcase-v1/steed-1440.webp",
-    "bytes": 55700,
-    "sha256": "3ee2402f0614a8a2aa46ba721b6e56cd458791d37b41bc868a7f703b0dfd8236"
+    "path": "public/site-assets/assets/showcase-v3/steed-1440.webp",
+    "bytes": 77960,
+    "sha256": "98d120230afb4035d31dc11d2e045af4dfe0e0d7593cd06349b750aac79d438d"
   },
   {
-    "path": "public/site-assets/assets/showcase-v1/steed-390.webp",
-    "bytes": 30776,
-    "sha256": "8852a78054143dff88439d030d9c3fcd58ac36bc8396479ac38e6b373fbbf5d9"
+    "path": "public/site-assets/assets/showcase-v3/steed-320.webp",
+    "bytes": 78412,
+    "sha256": "ff2671156f940b9ab457f96ff02425badfd750417af4fb60bc4b1ea89895d287"
   },
   {
     "path": "public/site-assets/case-workbench.css",
-    "bytes": 11409,
-    "sha256": "d94bb238983e9dc7abc6fba713504636abb843e6520a29c4e81a07196180114b"
+    "bytes": 11548,
+    "sha256": "2f73c73662a165a392e34c6ba784a5f8c3a9c44d25cd1ecce38fbe99d454a9c3"
   },
   {
     "path": "public/site-assets/case-workbench.js",
@@ -116,13 +116,13 @@
   },
   {
     "path": "public/site-assets/home-company.css",
-    "bytes": 19915,
-    "sha256": "98da063def70de6c39a35bdb13acb2ea035881f864891c4194a283b943da72a5"
+    "bytes": 25824,
+    "sha256": "900590773ac76dcf52b6d63f8260cf70a3f0bd69436f32b33439c91cb956c70f"
   },
   {
     "path": "public/site-assets/home-company.js",
-    "bytes": 2843,
-    "sha256": "faa499d034eca2645b400c519e3c5e870a4389a5f0ef5bc9a7d83b3ef1805b43"
+    "bytes": 3837,
+    "sha256": "8ec5c9138e0b3ee92351f882db4a2d3aaf389eea90a08c4f350de3684c771905"
   },
   {
     "path": "public/site-assets/integrated-craft.css",
