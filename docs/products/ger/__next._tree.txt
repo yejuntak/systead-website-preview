@@ -6,4 +6,4 @@
 :HL["/systead-website-preview/site-assets/subpage-craft.css","style"]
 :HL["/systead-website-preview/site-assets/continuity.css","style"]
 :HL["/systead-website-preview/site-assets/product-pages.css?v=240b04a9de32","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"c","key":"products/ger","siblings":["_not-found","_global-error","robots.txt"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"K8Z5XTY-HiYreNUsIYRBE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"c","key":"products/ger","siblings":["_not-found","_global-error","robots.txt"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"XTAkUolUB9Pael6J6PsPK"}

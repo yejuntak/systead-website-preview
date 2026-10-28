@@ -66,13 +66,23 @@
   },
   {
     "path": "public/site-assets/company.js",
-    "bytes": 12796,
-    "sha256": "8a9715fa263770348e71f075b8c5b49486fe922ac1113bea25983344d17a44a1"
+    "bytes": 13097,
+    "sha256": "80cbbcc12b2af56c04d2b0e04081d6ebd33204316db97827fe5e607a9d7ec9a6"
   },
   {
     "path": "public/site-assets/continuity.css",
-    "bytes": 9730,
-    "sha256": "e9c3c56f146534739c9f9b3fdb90e73758a39b3f46389addf9e41ee1426be411"
+    "bytes": 11416,
+    "sha256": "0731ebafcbaa2c47f24079f1fb4d87a4d308bb637d1eed20992b8c5ae3436e85"
+  },
+  {
+    "path": "public/site-assets/home-company.css",
+    "bytes": 16777,
+    "sha256": "337661cd58d9377812feb01e7bdf1c4b5c4177e740be975a715707d9fb922a62"
+  },
+  {
+    "path": "public/site-assets/home-company.js",
+    "bytes": 2869,
+    "sha256": "6efde7431661055cd09a0075e684e293bf64b5da91936f6518ca7e066d82252d"
   },
   {
     "path": "public/site-assets/integrated-craft.css",
@@ -120,14 +130,24 @@
     "sha256": "5d1fed7355737b4ff136838f9f79a2c257aea20df97fce70067c955534b7f99d"
   },
   {
+    "path": "public/site-assets/scrollcraft.css",
+    "bytes": 19769,
+    "sha256": "e19eb3aa73b0944626ca56e6e427c76f44753481e04d60f4bac20e8cf1d7758a"
+  },
+  {
+    "path": "public/site-assets/scrollcraft.js",
+    "bytes": 62176,
+    "sha256": "4a419b3ede51f64790af7b56c0195ea01c98a84df8e0e768ebf343956b922f39"
+  },
+  {
     "path": "public/site-assets/shell-tokens.css",
     "bytes": 631,
     "sha256": "923f7996e4f3d21d801f2b34f0f42de18da5c28c6d48f1e1a4c0aa2738239e41"
   },
   {
     "path": "public/site-assets/site-shell.css",
-    "bytes": 14549,
-    "sha256": "3498d02bc40aeb72f9bd34f565bd80d345be20df4a67392c830f867cd12cd79c"
+    "bytes": 14588,
+    "sha256": "502b4893c922b70e40fbfa01f6f978d5e764b7dfd76f1b37f5eeb6431136b6c9"
   },
   {
     "path": "public/site-assets/site-shell.js",
