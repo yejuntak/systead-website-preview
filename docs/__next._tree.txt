@@ -8,4 +8,4 @@
 :HL["/systead-website-preview/site-assets/scrollcraft.css","style"]
 :HL["/systead-website-preview/site-assets/reveal.css","style"]
 :HL["/systead-website-preview/site-assets/home-company.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"XTAkUolUB9Pael6J6PsPK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"--1KzqlE6tbPBjmONSAi7"}

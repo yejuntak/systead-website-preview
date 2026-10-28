@@ -1,6 +1,6 @@
 (()=>{
 const rail=document.querySelector('.family-role-rail');if(!rail)return;
-const narrow=matchMedia('(max-width:700px)');const orientation=()=>rail.setAttribute('aria-orientation',narrow.matches?'horizontal':'vertical');orientation();narrow.addEventListener('change',orientation);
+const narrow=matchMedia('(max-width:700px)');const orientation=()=>rail.setAttribute('aria-orientation','horizontal');orientation();narrow.addEventListener('change',orientation);
 const tabs=[...rail.querySelectorAll('[data-family]')],panels=[...document.querySelectorAll('[data-family-panel]')];
 function choose(tab,focus=false){tabs.forEach(button=>{const selected=button===tab;button.setAttribute('aria-selected',String(selected));button.tabIndex=selected?0:-1});panels.forEach(panel=>panel.hidden=panel.dataset.familyPanel!==tab.dataset.family);if(focus)tab.focus()}
 tabs.forEach((tab,index)=>{tab.addEventListener('click',()=>choose(tab));tab.addEventListener('keydown',event=>{let next;if(event.key==='ArrowRight'||event.key==='ArrowDown')next=(index+1)%tabs.length;if(event.key==='ArrowLeft'||event.key==='ArrowUp')next=(index+tabs.length-1)%tabs.length;if(event.key==='Home')next=0;if(event.key==='End')next=tabs.length-1;if(next!==undefined){event.preventDefault();choose(tabs[next],true)}})});
